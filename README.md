@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luiz!
 
-<!--
-**LuizPedreira/LuizPedreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC Taquaritinga** e venho desenvolvendo projetos acadêmicos e pessoais para colocar em prática o que aprendo durante a graduação.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento de sistemas web e desktop, trabalhando principalmente com **JavaScript, Python, SQL e banco de dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,sqlite,git,github,vscode)](https://skillicons.dev)
+
+
+## 📫 Onde me encontrar
+
+[LinkedIn](SEU_LINK) • [E-mail](mailto:luizricardopedreira@gmail.com)
