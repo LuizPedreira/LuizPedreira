@@ -12,4 +12,4 @@ Tenho interesse em desenvolvimento de sistemas web e desktop, trabalhando princi
 
 ## 📫 Onde me encontrar
 
-[LinkedIn](SEU_LINK) • [E-mail](mailto:luizricardopedreira@gmail.com)
+[LinkedIn]([(https://www.linkedin.com/in/luiz-ricardo-pedreira-jr-b68868236/)) • [E-mail](mailto:luizricardopedreira@gmail.com)
